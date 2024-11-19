@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #664b7c;
+}
+
+.hero {
+  background-image: url("https://res.cloudinary.com/drcy6fgto/image/upload/v1731599508/IMG_7308_ojxyir.jpg");
+  /* background-position: contain; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
