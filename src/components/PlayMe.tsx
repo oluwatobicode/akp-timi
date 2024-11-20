@@ -18,6 +18,7 @@ const PlayMe = () => {
 
   return (
     <div className="mt-5 mb-5">
+      <h1 className="text-white">Click to play</h1>
       <button
         className="text-white text-2xl w-full p-3 h-14 rounded-md bg-black"
         onClick={togglePlay}
