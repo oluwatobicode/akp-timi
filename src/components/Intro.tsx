@@ -67,7 +67,7 @@ const Intro = () => {
           }}
           className="text-center text-2xl font-bold text-white"
         >
-          AKP & TIMI
+          Immanuel & Oluwatimilehin
         </p>
       </div>
     </motion.div>
