@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import photograph from "../sound/Photograph.mp3";
 
 const PlayMe = () => {

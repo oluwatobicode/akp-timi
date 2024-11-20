@@ -1,4 +1,4 @@
-import React, { Dispatch, SetStateAction, useState } from "react";
+import { Dispatch, SetStateAction, useState } from "react";
 import { motion, useMotionValue, useTransform } from "framer-motion";
 
 const SwipeCards = () => {
