@@ -1,4 +1,5 @@
 import AkpVideo from "./components/AkpVideo";
+import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import PlayMe from "./components/PlayMe";
 import SwipeCards from "./components/SwipeCards";
@@ -12,6 +13,7 @@ const App = () => {
       <TypeWriter />
       <SwipeCards />
       <AkpVideo />
+      <Footer />
     </main>
   );
 };

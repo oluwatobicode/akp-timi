@@ -1,7 +1,7 @@
 const TypeWriter = () => {
   return (
     <main>
-      <p className="text-white">
+      <p className="text-white leading-8">
         Happy 2 year anniversary the love of my life, these 730 days have been
         the best in my life and I know it can only get better and better ! I
         remember the day I met you in person for the first time, we’ve already

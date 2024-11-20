@@ -1,4 +1,4 @@
-import akp from "../assets/AKP-TIMI/recorded-15775318582798.mp4";
+import akp from "../assets/AKP-TIMI/AKP-VIDEO.mp4";
 
 const AkpVideo = () => {
   return (
